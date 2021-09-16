@@ -22,4 +22,23 @@ a:hover {
 
 /* For the recipe pages mostly */
 
+.recipe-body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.recipe-picture-div{
+    text-align: center;
+}
+
+.recipe-pictures {
+    width: 500px;
+    height: auto;
+}
+
+.recipe-header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+
+    background-color:yellowgreen
+}
